@@ -40,19 +40,19 @@
     <p class="mt-10">I’m proficient in both SQL (PostgreSQL, MySQL, MariaDB) and NoSQL (MongoDB)</p>
     <p class="">along with Redis for caching.</p>
     <p class="mt-10">I have hands-on experience with message queues and WebSockets.</p>
-    <p>
+    <p class="mt-10">
       I mostly use <span class="font-semibold text-blue-300">Docker 🐳</span> for development, set
       up CI/CD pipelines on GitLab/GitHub, and deploy on GCP and AWS.
     </p>
 
-    <p class="">
+    <p class="mt-10">
       Currently, I’m studying ElysiaJS and expanding my skills with
       <span class="font-semibold text-blue-400">Golang</span>,
       <span class="font-semibold text-orange-700">Rust</span>, and
       <span class="font-semibold text-red-400">Ruby on Rails</span>.
     </p>
 
-    <p>
+    <p class="mt-10">
       By the way, I use <span class="font-bold">Neovim</span> as my primary editor, check my repo
       <a
         href="https://github.com/mewxz029/dotfiles"
